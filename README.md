@@ -65,3 +65,6 @@
 - Banco de dados
 - Arquitetura de redes 
 - Javascript (básico)
+
+- [Ecosapienstech](ecosapiens.pdf)
+- [Gourmetify](Gourmetify.pdf)
